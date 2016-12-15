@@ -9,5 +9,6 @@
 5. [可乐要加冰才好喝啊---装饰模式](http://blog.lmj.wiki/2016/11/22/design-pattern/decorator/)
 6. [大龙帮忙去谈判---代理模式](http://blog.lmj.wiki/2016/11/28/design-pattern/proxy/)
 7. [创业街分店开张啦---原型模式](http://blog.lmj.wiki/2016/12/04/design-pattern/prototype/)
+8. [是时候弄一套开分店的标准了---抽象工厂](http://blog.lmj.wiki/2016/12/15/design-pattern/abstract_factory/)
 
 
