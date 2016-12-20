@@ -10,5 +10,6 @@
 6. [大龙帮忙去谈判---代理模式](http://blog.lmj.wiki/2016/11/28/design-pattern/proxy/)
 7. [创业街分店开张啦---原型模式](http://blog.lmj.wiki/2016/12/04/design-pattern/prototype/)
 8. [是时候弄一套开分店的标准了---抽象工厂](http://blog.lmj.wiki/2016/12/15/design-pattern/abstract_factory/)
+9. [日报表格只有一份---单例模式](http://blog.lmj.wiki/2016/12/20/design-pattern/singleton/)
 
 
