@@ -11,5 +11,6 @@
 7. [创业街分店开张啦---原型模式](http://blog.lmj.wiki/2016/12/04/design-pattern/prototype/)
 8. [是时候弄一套开分店的标准了---抽象工厂](http://blog.lmj.wiki/2016/12/15/design-pattern/abstract_factory/)
 9. [日报表格只有一份---单例模式](http://blog.lmj.wiki/2016/12/20/design-pattern/singleton/)
+10. [统一热干面的制作流程---模板方法](http://blog.lmj.wiki/2016/12/22/design-pattern/template_method/)
 
 
