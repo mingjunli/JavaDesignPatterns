@@ -12,5 +12,6 @@
 8. [是时候弄一套开分店的标准了---抽象工厂](http://blog.lmj.wiki/2016/12/15/design-pattern/abstract_factory/)
 9. [日报表格只有一份---单例模式](http://blog.lmj.wiki/2016/12/20/design-pattern/singleton/)
 10. [统一热干面的制作流程---模板方法](http://blog.lmj.wiki/2016/12/22/design-pattern/template_method/)
+11. [梳理公司的组织架构---组合模式](http://blog.lmj.wiki/2017/01/18/design-pattern/composite/)
 
 
